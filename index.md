@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://example.com"
+redirect_to: "https://mozilla.github.io/open-leadership-framework/"
 ---
